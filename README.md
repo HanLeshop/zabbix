@@ -25,7 +25,7 @@ sudo nano /etc/zabbix/zabbix_server.conf
 ctrl+W: DBP
 DBPassword=123456789 #enter pass
 ```
-**restart and enable* 
+**restart and enable** 
 ```
 systemctl restart zabbix-server apache2 
 systemctl enable zabbix-server apache2
