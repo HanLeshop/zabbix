@@ -8,7 +8,6 @@
 
 **download and start zabbix**
 ```
-Поле для вставки кода...
 wget https://repo.zabbix.com/zabbix/6.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest+ubuntu22.04_all.deb 
 dpkg -i zabbix-release_latest+ubuntu22.04_all.deb 
 apt update
