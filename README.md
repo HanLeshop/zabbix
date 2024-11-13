@@ -39,14 +39,22 @@ systemctl status zabbix-server.service
 
 ### Задание 2
 
+
+
 **host zabbix**
 ![server](5307534161797571732.jpg)
+
+
 
 **log**
 ![log](5307534161797571771.jpg)
 
+
+
 **monitoring**
 ![monitor](5307534161797571778.jpg)
+
+
 
 
 **Install zabbix agent**
